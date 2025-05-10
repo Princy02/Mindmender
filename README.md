@@ -14,8 +14,6 @@ This project analyzes Reddit posts using Natural Language Processing (NLP) to de
 ## 🔗 Project Files
 
 - `UAI_final.ipynb` – Full code, analysis, and visualizations.
-- *(Optional)* `app.py` – Dash app code if separated.
-- *(Optional)* `requirements.txt` – List of Python dependencies.
 
 ---
 
